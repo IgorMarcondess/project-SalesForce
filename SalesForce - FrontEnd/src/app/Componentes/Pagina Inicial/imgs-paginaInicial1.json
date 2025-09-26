@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "src": "./Personagens_PI/einstein.png",
+      "text": "EINSTEIN",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Einstein é o cientista de dados da Salesforce, nascido em 2016. Ele é o cérebro por trás da inteligência artificial da empresa e sempre está pronto para ajudar você a aprender mais sobre seus clientes e prever resultados."
+    },
+    {
+      "id": 2,
+      "src": "./Personagens_PI/appy.png",
+      "text": "APPY",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Appy é sua guia no ecossistema de parceiros e AppExchange da Salesforce. Ela representa os ISVs e nasceu em 2017, conectando pessoas e empresas para resolver desafios de negócios."
+    },
+    {
+      "id": 3,
+      "src": "./Personagens_PI/astro.png",
+      "text": "ASTRO",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Astro, nascido em 2014, é seu guia para tudo na Salesforce. Ele representa a comunidade e inclusão, incentivando todos a alcançar seus objetivos sem medo de tentar coisas novas."
+    },
+    {
+      "id": 4,
+      "src": "./Personagens_PI/cloudy.png",
+      "text": "CLOUDY",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Cloudy é a expert em tecnologia em nuvem, nascida em 2015. Ela ajuda a criar aplicativos inovadores e incentiva você a explorar seu potencial ilimitado na nuvem."
+    },
+    {
+      "id": 5,
+      "src": "./Personagens_PI/codey.png",
+      "text": "CODEY",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Codey é o urso desenvolvedor da Salesforce, representando programadores e criadores desde 2015. Ele inspira todos a construir qualquer coisa com cliques ou códigos."
+    },
+    {
+      "id": 6,
+      "src": "./Personagens_PI/hootie.png",
+      "text": "HOOTIE",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Hootie, a coruja da Trailhead Academy, representa aprendizado e sucesso na carreira. Ele ajuda você a conquistar novas habilidades e alcançar novos patamares."
+    },
+    {
+      "id": 7,
+      "src": "./Personagens_PI/max.png",
+      "text": "MAX",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Max é o herói da integração, responsável por conectar dados e dispositivos de forma rápida e eficiente. Ele é o defensor dos desenvolvedores que integra tudo com rapidez."
+    },
+    {
+      "id": 8,
+      "src": "./Personagens_PI/ruth.png",
+      "text": "RUTH",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Ruth é a conselheira da Salesforce, sempre pronta para ajudar clientes e parceiros a implantar soluções inovadoras e alcançar o sucesso."
+    },
+    {
+      "id": 9,
+      "src": "./Personagens_PI/blaze.png",
+      "text": "BLAZE",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Blaze é a guia confiável no caminho do sucesso do cliente. Conhecedora dos caminhos dos negócios, ela ajuda você a conquistar seu espaço e alcançar o sucesso na Salesforce."
+    },
+    {
+      "id": 10,
+      "src": "./Personagens_PI/koa.png",
+      "text": "KOA",
+      "external": "https://www.salesforce.com/br/blog/personagens-salesforce/",
+      "description": "Koa é o cachorro que representa as pequenas empresas e Salesforce Essentials. Ele traz amor e longevidade, sempre ao seu lado em cada etapa da sua jornada de negócios."
+    }
+  ]
+  

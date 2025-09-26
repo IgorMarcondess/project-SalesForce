@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "src": "/fotos/maria.png",
+        "text": "MARIA",
+        "text2": "RM552669"
+    },
+    {
+        "id": 2,
+        "src": "/fotos/nicholas.png",
+        "text": "NICHOLAS",
+        "text2": "RM552744"
+    },
+    {
+        "id": 3,
+        "src": "/fotos/igor.png",
+        "text": "IGOR",
+        "text2": "RM553544"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "src": "/assets/sucesso/slack.svg", 
+        "text": "SLACK",
+        "href": "https://www.salesforce.com/br/slack/"
+    },
+    {
+        "id": 2,
+        "src": "/assets/sucesso/einstein.svg",
+        "text": "EINSTEIN",
+        "href": "https://www.salesforce.com/br/products/einstein/features/"
+    },
+    {
+        "id": 3,
+        "src": "/assets/sucesso/tableau.svg",
+        "text": "TABLEAU",
+        "href": "https://www.tableau.com/pt-br/solutions/salesforce"
+    }
+]
