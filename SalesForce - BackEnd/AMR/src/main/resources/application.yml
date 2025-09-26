@@ -1,0 +1,19 @@
+spring:
+  #  h2:
+  #    console:
+  #      enabled: true
+  datasource:
+    url: jdbc:oracle:thin:@localhost:1521:xe
+    username: system
+    password: 251084
+    driver-class-name: oracle.jdbc.OracleDriver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.OracleDialect
+
+logging:
+  level:
+    org.springframework.security: trace
+server:
+  port: 8080
